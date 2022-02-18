@@ -17,8 +17,8 @@ function App() {
         "https://lh3.googleusercontent.com/a-/AOh14GiBv7fSEkk1Kr_3jpQfHTuEHh6V1ehFsg_sLNg0=s40-c",
     },
     {
-      name: "VeganPunk #3429",
-      price: "0.041ETH",
+      name: "VeganPunk #6731",
+      price: "0.91ETH",
       description: "Go vegan for your health and for the planet",
       nft: "../assets/vegan-cow.gif",
       cardColor: "hsl(216,50%,16%)",
